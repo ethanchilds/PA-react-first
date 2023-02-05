@@ -3,7 +3,7 @@ This app is meant for upcoming parents who would like to start coming up with na
 
 My purpose in creating this app was to both prepare myself for a future project and do a test run of said project. This future project will be a fully fledged pregnancy app that I will be creating with a group of fellow students in a react framework. One of the features we planned on including was going to be name list. By completing this project I was able to both complete a preliminary attempt at a future project but also obtain the javascript and react skills that would be necessary for this project.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/b8RZTXCXMAM)
 
 # Development Environment
 
